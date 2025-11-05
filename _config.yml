@@ -1,3 +1,3 @@
 title: "我的技术博客"  # 这里换成你喜欢的博客标题
 description: "记录我的学习与成长"  # 这里换成你的博客描述
-theme: jekyll-theme-cayman  # 这是主题名称，我们先用这个
+theme: jekyll-theme-minimal  # 这是主题名称，我们先用这个
