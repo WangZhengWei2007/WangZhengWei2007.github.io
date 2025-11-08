@@ -6,9 +6,9 @@ layout: home
 
 <div style="background-color: rgba(255, 255, 255, 0.5); border-radius: 15px; padding: 30px; margin: 20px; box-shadow: 0 0 20px rgba(0,0,0,0.2); position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); max-width: 600px; width: 80%;">
 
-# 欢迎来到我的博客！
+欢迎来到我的博客！
 
-## 最新文章
+  最新文章:
 
 <ul>
 <li><a href="/2025/11/06/building-c-hp-library-part1-motivation.html">从零构建C语言高精度算法库（一）：初衷</a> - 2025年11月6日</li>
