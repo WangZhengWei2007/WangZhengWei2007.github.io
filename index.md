@@ -4,7 +4,7 @@ layout: home
 
 <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-image: url('/assets/images/blog-background.jpg'); background-size: cover; background-position: center; z-index: -1;"></div>
 
-<div style="background-color: rgba(255, 255, 255, 0.95); border-radius: 15px; padding: 30px; margin: 20px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
+<div style="background-color: rgba(255, 255, 255, 0.5); border-radius: 15px; padding: 30px; margin: 20px; box-shadow: 0 0 20px rgba(0,0,0,0.2); position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); max-width: 600px; width: 80%;">
 
 # 欢迎来到我的博客！
 
