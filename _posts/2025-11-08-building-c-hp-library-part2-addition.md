@@ -1,4 +1,3 @@
-text
 ---
 layout: post
 title: "从零构建C语言高精度算法库（二）：正整数加法实现"
