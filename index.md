@@ -2,30 +2,9 @@
 layout: home
 ---
 
-<style>
-body {
-    background-image: url('https://i.ibb.co/b5kL631t/1734251424508.png');
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-.main-content {
-    background-color: rgba(255, 255, 255, 0.92);
-    border-radius: 15px;
-    padding: 30px;
-    margin: 20px;
-    box-shadow: 0 0 25px rgba(0,0,0,0.15);
-    border: 1px solid rgba(255,255,255,0.5);
-}
-.page-header {
-    background-color: rgba(255, 255, 255, 0.95);
-    padding: 2rem;
-    border-radius: 15px;
-    margin: 2rem;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-}
-</style>
+<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-image: url('/assets/images/blog-background.jpg'); background-size: cover; background-position: center; z-index: -1;"></div>
+
+<div style="background-color: rgba(255, 255, 255, 0.95); border-radius: 15px; padding: 30px; margin: 20px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
 
 # 欢迎来到我的博客！
 
