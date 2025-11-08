@@ -2,7 +2,6 @@
 layout: post
 title: "从零构建C语言高精度算法库（一）：初衷"
 date: 2025-11-06
-permalink: /2025/11/06/building-c-hp-library-part1-motivation.html
 ---
 ## 我为什么在大一从头构建一个C语言高精度算法库？
 
