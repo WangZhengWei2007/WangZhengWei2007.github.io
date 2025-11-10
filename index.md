@@ -11,7 +11,7 @@ layout: home
   最新文章:
 
 <ul>
-<li><a href="/2025/11/10/building-c-hp-library-part3-subtraction.html">从零构建C语言高精度算法库（二）：正整数减法实现</a> - 2025年11月10日</li>
+<li><a href="/2025/11/10/building-c-hp-library-part3-subtraction.html">从零构建C语言高精度算法库（三）：正整数减法实现</a> - 2025年11月10日</li>
 <li><a href="/2025/11/08/building-c-hp-library-part2-addition.html">从零构建C语言高精度算法库（二）：正整数加法实现</a> - 2025年11月8日</li>
 <li><a href="/2025/11/06/building-c-hp-library-part1-motivation.html">从零构建C语言高精度算法库（一）：初衷</a> - 2025年11月6日</li>
 <li><a href="/2025/11/05/my-first-blog.html">我的第一篇博客</a> - 2025年11月5日</li>
